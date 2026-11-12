@@ -125,4 +125,3 @@ console.log("O valor convertido é: " + temperaturaConvertida)
 
 // 10
 
-function 
